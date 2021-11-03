@@ -1,4 +1,4 @@
-[![Python version](https://img.shields.io/badge/python-3.9-blue.svg)](https://github.com/mwiens91/JuanBot)
+[![Python version](https://img.shields.io/badge/python-3.9-blue.svg)](https://github.com/mwiens91/lab_wordcloud_generator)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 # Lab wordcloud generator
